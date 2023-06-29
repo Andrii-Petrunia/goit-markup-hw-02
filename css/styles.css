@@ -93,6 +93,7 @@ body {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 1.12px;
+  text-align: center;
 }
 
 .hero-btn {
@@ -118,6 +119,7 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  color: var(--navyblue, #2e2f42);
 }
 .features-text {
   color: var(--slate, #434455);
@@ -133,6 +135,7 @@ body {
   letter-spacing: 0.72px;
   text-transform: capitalize;
   text-align: center;
+  color: var(--navyblue, #2e2f42);
 }
 
 /**---------- OUR TEAM ---------- */
@@ -147,17 +150,19 @@ body {
   letter-spacing: 0.72px;
   text-transform: capitalize;
   text-align: center;
+  color: var(--navyblue, #2e2f42);
 }
 
 .team-list {
   background-color: #ffffff;
 }
 
-.team-member {
+.team-member-title {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  color: var(--navyblue, #2e2f42);
 }
 .team-text {
   color: var(--slate, #434455);
@@ -222,7 +227,7 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--navyblue, #2e2f42);;
+  color: var(--navyblue, #2e2f42);
 }
 .portfolio-text {
   color: var(--slate, #434455);
